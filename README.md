@@ -14,7 +14,7 @@ Design a modern Username(working name) that generates trendy, Reddit-style rando
 
 ---
 
-## Related concept to add to the site
+## Related concept
 
 **Style Packs / Persona Modes** — instead of one generic name style, let users pick a "pack" that changes the word banks and format:
 - **Reddit Classic** — Adjective+Noun+Number
